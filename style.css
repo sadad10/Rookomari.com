@@ -40,7 +40,7 @@ position: absolute;
     width: 100%;
 
 }
-  button{
+  .btn{
       background-color: white;
       margin-left: 40px;
       padding: 13px 12px;
@@ -181,7 +181,7 @@ margin-left: 25px;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
 position: absolute;
-min-height: 700px;
+
 padding: 30px;
 margin-top: 30px;
 }
@@ -231,3 +231,98 @@ max-width: 150px;
 margin-left: 25px;
 
 }
+button{
+margin-left: 140px;
+    margin-top: 920px;
+    width: 200px;
+    padding: 15px 0 ;
+ position: relative;
+    text-align: center;
+    border-radius: 15px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    cursor: pointer;
+    background: transparent;
+    color: black;
+    overflow: hidden;
+}
+span{
+    background: #0281f8;
+    height: 100%;
+    width: 0;
+    border-radius: 15px;
+    position: absolute;
+    left: 0;
+ bottom: 0;
+    transition: 0.5s;
+    z-index: -1;
+
+}
+button:hover span{
+width: 100%;
+
+
+}
+button:hover{
+
+
+  border: none;
+}
+
+
+.palaroid1{
+    margin-left: 55px;
+    width: 90%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
+position: absolute;
+
+padding: 30px;
+margin-top: 30px;
+}
+.palaroid1 h5{
+font-size: 29px;
+margin-bottom: 30px;
+font-family: cursive;
+
+}
+.palaroid1 p{
+    position: relative;
+overflow: hidden;
+max-width: 150px;
+margin-left: 25px;
+
+}
+.palaroid1 del{
+
+   position: relative;
+    overflow: hidden;
+    max-width: 150px;
+    margin-left: 25px;
+    
+
+}
+.col-51{
+
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom:50px ;
+float: left;
+    display: inline-block;
+}
+.col-51 img{
+
+   
+max-width: 150px;
+max-height: 200px;
+    width: 100%;
+
+    position:relative;
+}
+.col-51 h4{ position: relative;
+
+    max-width: 150px;
+    margin-left: 25px;
+    
+    }
