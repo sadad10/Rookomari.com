@@ -567,3 +567,12 @@ margin-top: 420px;
 margin-top: 420px; 
           position: absolute;
       }
+.list{
+    margin-left: 400px;
+    margin-top: 30px;
+    position: absolute;
+   
+}
+.list li{
+    padding: 3px;
+}
