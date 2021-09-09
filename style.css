@@ -490,7 +490,7 @@ margin-top: 0 ;
             box-shadow: 0 2px 6px 0 rgba(114, 114, 114, 0.603), 0 6px 20px 0 rgba(117, 117, 117, 0.507);
             margin-bottom: 25px;
             margin-top: 1000px;
-            position: absolute;
+            position: relative;
             height: 500px;
           }
       .flogo{
