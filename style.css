@@ -546,12 +546,24 @@ margin-left: 30px;
 position: absolute;
       }
       .fa-twitter{
-          margin-left: 10px;
+          margin-top: 420px;
+          margin-left: 70px;
+          position: absolute;
       }
       .fa-google-plus-square{
-        margin-left: 10px;
+        margin-left: 40px;
+        position: absolute;
+        margin-top: 420px;
+
       }
       .fa-instagram-square{
-        margin-left: 10px;
+        margin-left: 100px;
+position: absolute;
 
+margin-top: 420px;
+      }
+      .fa-facebook{
+  
+margin-top: 420px; 
+          position: absolute;
       }
