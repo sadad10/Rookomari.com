@@ -245,6 +245,7 @@ margin-left: 140px;
     background: transparent;
     color: black;
     overflow: hidden;
+    margin-bottom: 40px;
 }
 span{
     background: #0281f8;
@@ -326,3 +327,74 @@ max-height: 200px;
     margin-left: 25px;
     
     }
+    .fa-cart-arrow-down{
+background-color: antiquewhite ;
+color: blue;
+margin-top: 0 ;
+
+
+    }
+
+    .bot{
+        position: fixed;
+        height: 60px;
+        width: 90px;
+        margin-top: 0;
+    }
+
+    .palaroid2{
+        margin-left: 55px;
+        width: 90%;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
+    position: absolute;
+    
+    padding: 30px;
+    margin-top: 600px;
+    }
+    .palaroid2 h5{
+    font-size: 29px;
+    margin-bottom: 30px;
+    font-family: cursive;
+    
+    }
+    .palaroid2 p{
+        position: relative;
+    overflow: hidden;
+    max-width: 150px;
+    margin-left: 25px;
+    
+    }
+    .palaroid2 del{
+    
+       position: relative;
+        overflow: hidden;
+        max-width: 150px;
+        margin-left: 25px;
+        
+    
+    }
+    .col-511{
+    
+        flex-basis: 25%;
+        padding: 10px;
+        min-width: 200px;
+        margin-bottom:50px ;
+    float: left;
+        display: inline-block;
+    }
+    .col-511 img{
+    
+       
+    max-width: 150px;
+    max-height: 200px;
+        width: 100%;
+    
+        position:relative;
+    }
+    .col-511 h4{ position: relative;
+    
+        max-width: 150px;
+        margin-left: 25px;
+        
+        }
