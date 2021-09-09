@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .logo
 {
 width: 120px;
@@ -397,4 +398,9 @@ margin-top: 0 ;
         max-width: 150px;
         margin-left: 25px;
         
+        }
+
+        .col-4 img:hover{
+
+
         }
