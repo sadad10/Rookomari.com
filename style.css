@@ -611,7 +611,7 @@ margin-top: 420px;
     margin-left: 1050px;
     margin-top: 70px;
     padding: 30px;
-
+ position: absolute;
 }
 .im{
     width: 250px;
@@ -632,4 +632,5 @@ position: absolute;
 }
 .payment{
     margin-bottom: 20px;
+    position: relative;
 }
