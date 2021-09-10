@@ -377,7 +377,7 @@ margin-left: 25px;
     flex-basis: 25%;
     padding: 10px;
     min-width: 200px;
-    margin-bottom:50px ;
+   
     position: relative;
  
 float: left;
@@ -489,7 +489,7 @@ margin-top: 0 ;
             background-color: white;
             box-shadow: 0 2px 6px 0 rgba(114, 114, 114, 0.603), 0 6px 20px 0 rgba(117, 117, 117, 0.507);
             margin-bottom: 25px;
-            margin-top: 1000px;
+            margin-top: 600px;
             position: relative;
             height: 500px;
           }
@@ -615,7 +615,7 @@ margin-top: 420px;
 }
 .im{
     width: 250px;
-    margin-left: 1080px;
+  margin-top: 10px;
     height: auto;
 }
 .payment h4{
