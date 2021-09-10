@@ -607,3 +607,29 @@ margin-top: 420px;
     position: absolute;
    
 }
+.f{
+    margin-left: 1050px;
+    margin-top: 70px;
+    padding: 30px;
+
+}
+.im{
+    width: 250px;
+    margin-left: 1080px;
+    height: auto;
+}
+.payment h4{
+    font-family: cursive;}
+.pay{
+width: 500px;
+margin-left: 500px;
+position: absolute;
+}
+.payment h4{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.payment{
+    margin-bottom: 20px;
+}
